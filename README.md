@@ -2,4 +2,4 @@
 LabVIEW Interface for an AGE Machine
 
 
-![Screenshot](AGE snap.JPG)
+![Screenshot](AGE snapshot.JPG)
